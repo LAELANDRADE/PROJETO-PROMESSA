@@ -6,6 +6,6 @@ public interface AddressRepository {
 
     //@Query(value = "select * from address where name = :nome/")
     //public List<Address> getEnderecoPorNomeDaRua(String nome);
-
+    // texto
     //
 }
