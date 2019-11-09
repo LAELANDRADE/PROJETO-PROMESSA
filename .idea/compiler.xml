@@ -9,5 +9,8 @@
         <module name="testLael2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testLael2" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

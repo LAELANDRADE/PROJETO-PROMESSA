@@ -1,4 +1,4 @@
-package domain;
+package br.com.lael.promiseproject.samples;
 
 import java.util.Arrays;
 import java.util.List;

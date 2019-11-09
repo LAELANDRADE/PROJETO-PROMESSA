@@ -1,4 +1,4 @@
-package view;
+package br.com.lael.promiseproject.samples;
 /*
         Conceito de herança
  */

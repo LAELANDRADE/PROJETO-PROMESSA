@@ -1,9 +1,6 @@
-package view;
-
-import jdk.nashorn.internal.scripts.JO;
+package br.com.lael.promiseproject.view;
 
 import javax.swing.*;
-import javax.swing.border.TitledBorder;
 import java.awt.*;
 
 public class AddressFrame extends JFrame {
